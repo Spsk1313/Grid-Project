@@ -218,4 +218,8 @@ body {
         padding: 16px;
         font-size: 12px;
     }
+
+    .project .overlay {
+        font-size: 16px;
+    }
 }
